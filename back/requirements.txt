@@ -9,3 +9,4 @@ pyOpenSSL==21.0.0
 python-dotenv==0.19.2
 SQLAlchemy==1.4.32
 websocket-client==1.2.3
+werkzeug==2.0.3
