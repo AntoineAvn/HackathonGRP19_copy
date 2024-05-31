@@ -48,8 +48,6 @@ PyJWT==2.3.0
 pylint==2.11.1
 pyOpenSSL==21.0.0
 pyparsing==3.0.7
-PyQt5==5.15.7
-PyQt5-sip==12.10.1
 PyQtWebEngine==5.15.4
 PySocks==1.7.1
 python-dateutil==2.8.2
