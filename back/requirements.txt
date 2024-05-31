@@ -4,7 +4,6 @@ Flask==2.0.3
 Flask-Cors==4.0.1
 httpcore==1.0.2
 httpx==0.25.2
-numpy==1.22.3
 packaging==21.3
 pandas==1.4.2
 pyOpenSSL==21.0.0
