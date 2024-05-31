@@ -13,3 +13,4 @@ werkzeug
 PyMySQL
 Cython
 scikit-learn
+pandas
